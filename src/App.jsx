@@ -89,7 +89,7 @@ function AppLayout() {
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/digital-society-1">
       <AppLayout />
     </BrowserRouter>
   );
