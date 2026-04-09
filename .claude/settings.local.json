@@ -6,7 +6,13 @@
       "Bash(npm install:*)",
       "Bash(npm run:*)",
       "Bash(taskkill:*)",
-      "Bash(gh auth:*)"
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)",
+      "Bash(gh api:*)",
+      "Bash(gh run:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(ls:*)"
     ]
   }
 }
